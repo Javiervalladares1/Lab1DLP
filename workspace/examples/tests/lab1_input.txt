@@ -1,0 +1,9 @@
+// Comentario de una linea
+var x = 123 + 45.67 - 9e-2 * 0x1A;
+if (x >= 10 && x != 0 || !flag) {
+  msg = "Hola\\nMundo\\t\\\"ok\\\"\\\\";
+  bad = "escape\q";
+}
+/* Comentario
+   de multiples lineas */
+total = x / 2;

@@ -1,0 +1,6 @@
+validName
+_valid123
+camelCase42
+1invalido
+otro-id
+__ok__
